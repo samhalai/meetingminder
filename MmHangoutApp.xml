@@ -22,7 +22,7 @@
 <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
 <script src="countdown/countdown.js"> </script>
 
-<h3>Meeting Minder/h3>
+<h3>Meeting Minder</h3>
 
 <script>
   var myCountdown1 = new Countdown({time:316});
