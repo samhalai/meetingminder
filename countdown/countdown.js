@@ -9,7 +9,7 @@
 //                                        //
 ////////////////////////////////////////////
 // 
-var CountdownImageFolder = "images/";
+var CountdownImageFolder = "//meetingminder.herokuapp.com/countdown/images/";
 var CountdownImageBasename = "flipper";
 var CountdownImageExt = "png";
 var CountdownImagePhysicalWidth = 41;
