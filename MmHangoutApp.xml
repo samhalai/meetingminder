@@ -20,7 +20,7 @@
 	<Content type="html"><![CDATA[     
 
 <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
-<script src="countdown/countdown.js"> </script>
+<script src="//meetingminder.herokuapp.com/countdown/countdown.js"> </script>
 
 <h3>Meeting Minder</h3>
 
