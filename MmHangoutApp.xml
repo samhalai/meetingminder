@@ -25,7 +25,7 @@
 <h3>Meeting Minder</h3>
 
 <script>
-  var myCountdown1 = new Countdown( { time: 360, rangeHi:"minute" } );
+  var myCountdown1 = new Countdown( { time: 360, rangeHi:"hour" } );
 </script>
 
 <p>
